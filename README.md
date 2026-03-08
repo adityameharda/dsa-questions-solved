@@ -5,8 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/0001-two-sum) |
+| [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/0001-two-sum) |
+| [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
+## String
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
