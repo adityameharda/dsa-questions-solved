@@ -47,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/adityameharda/dsa-questions-solved/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/0018-4sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/adityameharda/dsa-questions-solved/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
