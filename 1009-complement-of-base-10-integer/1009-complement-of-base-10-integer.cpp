@@ -2,11 +2,12 @@ class Solution {
 public:
     int bitwiseComplement(int n) {
          if(n == 0) return 1;
-        string s;
-
-        for(int x = n; x > 0; x /= 2)
+        string s = "";
+        int x = n;
+        while(x > 0)
         {
             s = char((x % 2) + '0') + s;
+            x = x / 2;
         }
         int l = s.length();
         for(int i = 0 ; i < l ; i++)
