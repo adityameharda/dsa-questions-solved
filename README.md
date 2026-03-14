@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/adityameharda/dsa-questions-solved/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/0035-search-insert-position) |
 | [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/adityameharda/dsa-questions-solved/tree/master/0338-counting-bits) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
