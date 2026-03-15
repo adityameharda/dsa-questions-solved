@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/0001-two-sum) |
+| [0133-clone-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/0133-clone-graph) |
 | [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
 ## String
 |  |
@@ -25,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/adityameharda/dsa-questions-solved/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/adityameharda/dsa-questions-solved/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/adityameharda/dsa-questions-solved/tree/master/0547-number-of-provinces) |
 ## Two Pointers
 |  |
