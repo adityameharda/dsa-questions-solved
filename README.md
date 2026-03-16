@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/adityameharda/dsa-questions-solved/tree/master/0058-length-of-last-word) |
 | [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
 ## Backtracking
 |  |
