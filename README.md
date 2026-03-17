@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/adityameharda/dsa-questions-solved/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/adityameharda/dsa-questions-solved/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/adityameharda/dsa-questions-solved/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/adityameharda/dsa-questions-solved/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/adityameharda/dsa-questions-solved/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/adityameharda/dsa-questions-solved/tree/master/0547-number-of-provinces) |
 ## Two Pointers
 |  |
@@ -66,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/0035-search-insert-position) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/adityameharda/dsa-questions-solved/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
