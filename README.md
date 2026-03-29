@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/adityameharda/dsa-questions-solved/tree/master/0283-move-zeroes) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityameharda/dsa-questions-solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/adityameharda/dsa-questions-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -128,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/adityameharda/dsa-questions-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Greedy
+|  |
+| ------- |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 <!---LeetCode Topics End-->
