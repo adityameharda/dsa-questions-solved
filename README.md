@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/adityameharda/dsa-questions-solved/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/adityameharda/dsa-questions-solved/tree/master/0058-length-of-last-word) |
 | [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Backtracking
 |  |
 | ------- |
