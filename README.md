@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/0035-search-insert-position) |
 | [0198-house-robber](https://github.com/adityameharda/dsa-questions-solved/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/adityameharda/dsa-questions-solved/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/adityameharda/dsa-questions-solved/tree/master/0347-top-k-frequent-elements) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/0133-clone-graph) |
+| [0347-top-k-frequent-elements](https://github.com/adityameharda/dsa-questions-solved/tree/master/0347-top-k-frequent-elements) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/adityameharda/dsa-questions-solved/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/0018-4sum) |
+| [0347-top-k-frequent-elements](https://github.com/adityameharda/dsa-questions-solved/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/adityameharda/dsa-questions-solved/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -146,4 +150,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityameharda/dsa-questions-solved/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityameharda/dsa-questions-solved/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityameharda/dsa-questions-solved/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/adityameharda/dsa-questions-solved/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
