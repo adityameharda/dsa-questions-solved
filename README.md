@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/adityameharda/dsa-questions-solved/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityameharda/dsa-questions-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/adityameharda/dsa-questions-solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/0054-spiral-matrix) |
 | [0198-house-robber](https://github.com/adityameharda/dsa-questions-solved/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/adityameharda/dsa-questions-solved/tree/master/0283-move-zeroes) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/adityameharda/dsa-questions-solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/0054-spiral-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityameharda/dsa-questions-solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/adityameharda/dsa-questions-solved/tree/master/0048-rotate-image) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adityameharda/dsa-questions-solved/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/adityameharda/dsa-questions-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
