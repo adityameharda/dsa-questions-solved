@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adityameharda/dsa-questions-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/adityameharda/dsa-questions-solved/tree/master/1480-running-sum-of-1d-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityameharda/dsa-questions-solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/adityameharda/dsa-questions-solved/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/adityameharda/dsa-questions-solved/tree/master/1480-running-sum-of-1d-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Divide and Conquer
