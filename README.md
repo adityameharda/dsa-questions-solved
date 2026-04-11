@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityameharda/dsa-questions-solved/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/adityameharda/dsa-questions-solved/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
@@ -196,9 +197,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityameharda/dsa-questions-solved/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/adityameharda/dsa-questions-solved/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/adityameharda/dsa-questions-solved/tree/master/0148-sort-list) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/adityameharda/dsa-questions-solved/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
