@@ -1,18 +1,42 @@
+// class NumArray {
+// public:
+//     vector<int>nums;
+//     NumArray(vector<int>& nums) {
+//        this->nums = nums;
+//     }
+//     int sumRange(int left, int right) {
+//         int sum = 0;
+//         for(int i = left ; i <= right ;i++)
+//         {
+//             sum += nums[i];
+//         }
+//         return sum;
+//     }
+// };
+
 class NumArray {
 public:
-    vector<int>nums;
+    vector<int> prefix;
+
     NumArray(vector<int>& nums) {
-       this->nums = nums;
-    }
-    int sumRange(int left, int right) {
-        int sum = 0;
-        for(int i = left ; i <= right ;i++)
-        {
-            sum += nums[i];
+        int n = nums.size();
+        prefix.resize(n);
+
+        prefix[0] = nums[0];
+        for(int i = 1; i < n; i++) {
+            prefix[i] = prefix[i-1] + nums[i];
         }
-        return sum;
+    }
+    
+    int sumRange(int left, int right) {
+        if(left == 0) return prefix[right];
+        return prefix[right] - prefix[left - 1];
     }
 };
+
+
+
+
 
 /**
  * Your NumArray object will be instantiated and called as such:
