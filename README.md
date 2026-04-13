@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityameharda/dsa-questions-solved/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/adityameharda/dsa-questions-solved/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/adityameharda/dsa-questions-solved/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/adityameharda/dsa-questions-solved/tree/master/0072-edit-distance) |
 | [0541-reverse-string-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0541-reverse-string-ii) |
@@ -213,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/adityameharda/dsa-questions-solved/tree/master/0303-range-sum-query-immutable) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
