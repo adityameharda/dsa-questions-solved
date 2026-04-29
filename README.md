@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/adityameharda/dsa-questions-solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/adityameharda/dsa-questions-solved/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/adityameharda/dsa-questions-solved/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/adityameharda/dsa-questions-solved/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/adityameharda/dsa-questions-solved/tree/master/0303-range-sum-query-immutable) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/adityameharda/dsa-questions-solved/tree/master/0078-subsets) |
 | [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
 ## Depth-First Search
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/adityameharda/dsa-questions-solved/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/adityameharda/dsa-questions-solved/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/adityameharda/dsa-questions-solved/tree/master/1009-complement-of-base-10-integer) |
 ## Dynamic Programming
