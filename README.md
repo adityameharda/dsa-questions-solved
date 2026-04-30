@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/adityameharda/dsa-questions-solved/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/adityameharda/dsa-questions-solved/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/adityameharda/dsa-questions-solved/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/adityameharda/dsa-questions-solved/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/adityameharda/dsa-questions-solved/tree/master/3643-flip-square-submatrix-vertically) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/adityameharda/dsa-questions-solved/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
