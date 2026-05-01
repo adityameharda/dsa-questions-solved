@@ -11,9 +11,9 @@ public:
         }
         int maxi = f0;
         int curr = f0;
-        for(int k = 1 ; k < n ; k++)
+        for(int i = n-1 ; i >= 0 ; i--)
         {
-            curr = curr + Sum - (n * nums[n - k]);
+            curr = curr + Sum - (n*nums[i]);
             maxi = max(maxi , curr);
         }
         return maxi;
