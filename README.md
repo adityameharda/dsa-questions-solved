@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adityameharda/dsa-questions-solved/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/adityameharda/dsa-questions-solved/tree/master/0396-rotate-function) |
+| [0414-third-maximum-number](https://github.com/adityameharda/dsa-questions-solved/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/adityameharda/dsa-questions-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/adityameharda/dsa-questions-solved/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/adityameharda/dsa-questions-solved/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/adityameharda/dsa-questions-solved/tree/master/0414-third-maximum-number) |
 ## Bit Manipulation
 |  |
 | ------- |
