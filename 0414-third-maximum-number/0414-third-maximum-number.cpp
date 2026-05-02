@@ -7,9 +7,7 @@ public:
         sort(v.begin(), v.end(), greater<int>());
         int n = v.size();
         if(n < 3) t = v[0];
-        else{
-            t = v[2];
-        }
+        else t = v[2];
         return t ;
     }
 };
