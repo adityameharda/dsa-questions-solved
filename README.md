@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/adityameharda/dsa-questions-solved/tree/master/0072-edit-distance) |
 | [0541-reverse-string-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/adityameharda/dsa-questions-solved/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/0796-rotate-string) |
 | [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Backtracking
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
