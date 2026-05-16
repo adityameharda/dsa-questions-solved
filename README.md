@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityameharda/dsa-questions-solved/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/adityameharda/dsa-questions-solved/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/adityameharda/dsa-questions-solved/tree/master/0485-max-consecutive-ones) |
+| [0500-keyboard-row](https://github.com/adityameharda/dsa-questions-solved/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/adityameharda/dsa-questions-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/adityameharda/dsa-questions-solved/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityameharda/dsa-questions-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/adityameharda/dsa-questions-solved/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/adityameharda/dsa-questions-solved/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/adityameharda/dsa-questions-solved/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/adityameharda/dsa-questions-solved/tree/master/0072-edit-distance) |
+| [0500-keyboard-row](https://github.com/adityameharda/dsa-questions-solved/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/adityameharda/dsa-questions-solved/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/0796-rotate-string) |
