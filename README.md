@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/adityameharda/dsa-questions-solved/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/adityameharda/dsa-questions-solved/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/adityameharda/dsa-questions-solved/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/adityameharda/dsa-questions-solved/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/adityameharda/dsa-questions-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/adityameharda/dsa-questions-solved/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/adityameharda/dsa-questions-solved/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/adityameharda/dsa-questions-solved/tree/master/0506-relative-ranks) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/adityameharda/dsa-questions-solved/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/adityameharda/dsa-questions-solved/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
