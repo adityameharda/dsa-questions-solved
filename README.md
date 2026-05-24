@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/adityameharda/dsa-questions-solved/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/adityameharda/dsa-questions-solved/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/adityameharda/dsa-questions-solved/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/adityameharda/dsa-questions-solved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/adityameharda/dsa-questions-solved/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/adityameharda/dsa-questions-solved/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/adityameharda/dsa-questions-solved/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
 | [1340-jump-game-v](https://github.com/adityameharda/dsa-questions-solved/tree/master/1340-jump-game-v) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adityameharda/dsa-questions-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Bit Manipulation
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/adityameharda/dsa-questions-solved/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adityameharda/dsa-questions-solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/adityameharda/dsa-questions-solved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adityameharda/dsa-questions-solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -280,5 +283,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adityameharda/dsa-questions-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
