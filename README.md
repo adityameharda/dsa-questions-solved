@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [0942-di-string-match](https://github.com/adityameharda/dsa-questions-solved/tree/master/0942-di-string-match) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/adityameharda/dsa-questions-solved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1306-jump-game-iii](https://github.com/adityameharda/dsa-questions-solved/tree/master/1306-jump-game-iii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adityameharda/dsa-questions-solved/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/adityameharda/dsa-questions-solved/tree/master/0396-rotate-function) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adityameharda/dsa-questions-solved/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/adityameharda/dsa-questions-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/adityameharda/dsa-questions-solved/tree/master/0942-di-string-match) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adityameharda/dsa-questions-solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/adityameharda/dsa-questions-solved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adityameharda/dsa-questions-solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
