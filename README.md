@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adityameharda/dsa-questions-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/adityameharda/dsa-questions-solved/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0942-di-string-match](https://github.com/adityameharda/dsa-questions-solved/tree/master/0942-di-string-match) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adityameharda/dsa-questions-solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/adityameharda/dsa-questions-solved/tree/master/0463-island-perimeter) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/adityameharda/dsa-questions-solved/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/adityameharda/dsa-questions-solved/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityameharda/dsa-questions-solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityameharda/dsa-questions-solved/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0680-valid-palindrome-ii) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/adityameharda/dsa-questions-solved/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0942-di-string-match](https://github.com/adityameharda/dsa-questions-solved/tree/master/0942-di-string-match) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adityameharda/dsa-questions-solved/tree/master/1221-split-a-string-in-balanced-strings) |
