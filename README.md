@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityameharda/dsa-questions-solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adityameharda/dsa-questions-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adityameharda/dsa-questions-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityameharda/dsa-questions-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/adityameharda/dsa-questions-solved/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/adityameharda/dsa-questions-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
 | [1340-jump-game-v](https://github.com/adityameharda/dsa-questions-solved/tree/master/1340-jump-game-v) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adityameharda/dsa-questions-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adityameharda/dsa-questions-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/adityameharda/dsa-questions-solved/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Bit Manipulation
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adityameharda/dsa-questions-solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adityameharda/dsa-questions-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adityameharda/dsa-questions-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sliding Window
 |  |
 | ------- |
