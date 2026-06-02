@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/adityameharda/dsa-questions-solved/tree/master/1340-jump-game-v) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adityameharda/dsa-questions-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adityameharda/dsa-questions-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/adityameharda/dsa-questions-solved/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/adityameharda/dsa-questions-solved/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Bit Manipulation
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adityameharda/dsa-questions-solved/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/adityameharda/dsa-questions-solved/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/adityameharda/dsa-questions-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adityameharda/dsa-questions-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adityameharda/dsa-questions-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/adityameharda/dsa-questions-solved/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sliding Window
 |  |
 | ------- |
