@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/adityameharda/dsa-questions-solved/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/adityameharda/dsa-questions-solved/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/adityameharda/dsa-questions-solved/tree/master/0031-next-permutation) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityameharda/dsa-questions-solved/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/adityameharda/dsa-questions-solved/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/adityameharda/dsa-questions-solved/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/adityameharda/dsa-questions-solved/tree/master/0031-next-permutation) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adityameharda/dsa-questions-solved/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/adityameharda/dsa-questions-solved/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0680-valid-palindrome-ii) |
