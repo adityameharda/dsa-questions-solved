@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adityameharda/dsa-questions-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adityameharda/dsa-questions-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityameharda/dsa-questions-solved/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/adityameharda/dsa-questions-solved/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/adityameharda/dsa-questions-solved/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/adityameharda/dsa-questions-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/adityameharda/dsa-questions-solved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/adityameharda/dsa-questions-solved/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/3548-equal-sum-grid-partition-ii) |
 ## String
 |  |
@@ -316,4 +318,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/adityameharda/dsa-questions-solved/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+## Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/adityameharda/dsa-questions-solved/tree/master/2196-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/adityameharda/dsa-questions-solved/tree/master/2196-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
