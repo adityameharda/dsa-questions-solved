@@ -5,14 +5,15 @@ public:
         sort(nums.begin(),nums.end());
         int i = 0 ;
         int j = nums.size()-1;
-        vector<int>v;
+        int t = INT_MIN ;
+        int k = 0 ;
         while(i<=j)
         {
-            v.push_back(nums[i] + nums[j]);
+            k = nums[i] + nums[j];
+            t = max(t,k);
             i++;
             j--;
         }
-        sort(v.begin(),v.end(),greater<int>());
-        return v[0] ;
+        return t ; 
     }
 };
