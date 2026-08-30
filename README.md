@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/adityameharda/dsa-questions-solved/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/adityameharda/dsa-questions-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityameharda/dsa-questions-solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/adityameharda/dsa-questions-solved/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0942-di-string-match](https://github.com/adityameharda/dsa-questions-solved/tree/master/0942-di-string-match) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/adityameharda/dsa-questions-solved/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/adityameharda/dsa-questions-solved/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/adityameharda/dsa-questions-solved/tree/master/0396-rotate-function) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityameharda/dsa-questions-solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [1340-jump-game-v](https://github.com/adityameharda/dsa-questions-solved/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityameharda/dsa-questions-solved/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0680-valid-palindrome-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityameharda/dsa-questions-solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/adityameharda/dsa-questions-solved/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0942-di-string-match](https://github.com/adityameharda/dsa-questions-solved/tree/master/0942-di-string-match) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
