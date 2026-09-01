@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityameharda/dsa-questions-solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityameharda/dsa-questions-solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/adityameharda/dsa-questions-solved/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/adityameharda/dsa-questions-solved/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityameharda/dsa-questions-solved/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityameharda/dsa-questions-solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/adityameharda/dsa-questions-solved/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/adityameharda/dsa-questions-solved/tree/master/0547-number-of-provinces) |
 | [1306-jump-game-iii](https://github.com/adityameharda/dsa-questions-solved/tree/master/1306-jump-game-iii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityameharda/dsa-questions-solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/adityameharda/dsa-questions-solved/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/adityameharda/dsa-questions-solved/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/adityameharda/dsa-questions-solved/tree/master/1009-complement-of-base-10-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityameharda/dsa-questions-solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/adityameharda/dsa-questions-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityameharda/dsa-questions-solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3643-flip-square-submatrix-vertically](https://github.com/adityameharda/dsa-questions-solved/tree/master/3643-flip-square-submatrix-vertically) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/adityameharda/dsa-questions-solved/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Enumeration
