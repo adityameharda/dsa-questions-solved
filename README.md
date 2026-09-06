@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/adityameharda/dsa-questions-solved/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/adityameharda/dsa-questions-solved/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/adityameharda/dsa-questions-solved/tree/master/0115-distinct-subsequences) |
 | [0500-keyboard-row](https://github.com/adityameharda/dsa-questions-solved/tree/master/0500-keyboard-row) |
 | [0541-reverse-string-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/adityameharda/dsa-questions-solved/tree/master/0657-robot-return-to-origin) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/adityameharda/dsa-questions-solved/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/adityameharda/dsa-questions-solved/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/adityameharda/dsa-questions-solved/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/adityameharda/dsa-questions-solved/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/adityameharda/dsa-questions-solved/tree/master/0198-house-robber) |
