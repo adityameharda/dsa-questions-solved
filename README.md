@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/adityameharda/dsa-questions-solved/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/adityameharda/dsa-questions-solved/tree/master/3783-mirror-distance-of-an-integer) |
+| [3870-count-commas-in-range](https://github.com/adityameharda/dsa-questions-solved/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
