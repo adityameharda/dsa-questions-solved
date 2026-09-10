@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/adityameharda/dsa-questions-solved/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/adityameharda/dsa-questions-solved/tree/master/0547-number-of-provinces) |
 | [1306-jump-game-iii](https://github.com/adityameharda/dsa-questions-solved/tree/master/1306-jump-game-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityameharda/dsa-questions-solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -356,10 +357,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityameharda/dsa-questions-solved/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityameharda/dsa-questions-solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityameharda/dsa-questions-solved/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityameharda/dsa-questions-solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Manacher
 |  |
 | ------- |
