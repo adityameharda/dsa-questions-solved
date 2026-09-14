@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adityameharda/dsa-questions-solved/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/adityameharda/dsa-questions-solved/tree/master/0396-rotate-function) |
+| [0836-rectangle-overlap](https://github.com/adityameharda/dsa-questions-solved/tree/master/0836-rectangle-overlap) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adityameharda/dsa-questions-solved/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -377,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityameharda/dsa-questions-solved/tree/master/0005-longest-palindromic-substring) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/adityameharda/dsa-questions-solved/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
