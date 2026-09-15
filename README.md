@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/adityameharda/dsa-questions-solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adityameharda/dsa-questions-solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityameharda/dsa-questions-solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Backtracking
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/adityameharda/dsa-questions-solved/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/adityameharda/dsa-questions-solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityameharda/dsa-questions-solved/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityameharda/dsa-questions-solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3643-flip-square-submatrix-vertically](https://github.com/adityameharda/dsa-questions-solved/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [1340-jump-game-v](https://github.com/adityameharda/dsa-questions-solved/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityameharda/dsa-questions-solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityameharda/dsa-questions-solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/adityameharda/dsa-questions-solved/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Binary Search
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/adityameharda/dsa-questions-solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adityameharda/dsa-questions-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/adityameharda/dsa-questions-solved/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityameharda/dsa-questions-solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
 |  |
 | ------- |
