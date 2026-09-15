@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityameharda/dsa-questions-solved/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/adityameharda/dsa-questions-solved/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/adityameharda/dsa-questions-solved/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/adityameharda/dsa-questions-solved/tree/master/0396-rotate-function) |
 | [0836-rectangle-overlap](https://github.com/adityameharda/dsa-questions-solved/tree/master/0836-rectangle-overlap) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/adityameharda/dsa-questions-solved/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/adityameharda/dsa-questions-solved/tree/master/0050-powx-n) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityameharda/dsa-questions-solved/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
