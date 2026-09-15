@@ -8,8 +8,9 @@ public:
         }
         double t = 1;
             while(N > 0){
-                if(N %2 == 1)
-                t *= x ;
+                if(N %2 == 1){
+                    t *= x ;
+                }
                 x *= x;
                 N /= 2;
             }
