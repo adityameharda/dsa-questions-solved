@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [1340-jump-game-v](https://github.com/adityameharda/dsa-questions-solved/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityameharda/dsa-questions-solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityameharda/dsa-questions-solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityameharda/dsa-questions-solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/adityameharda/dsa-questions-solved/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adityameharda/dsa-questions-solved/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/adityameharda/dsa-questions-solved/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityameharda/dsa-questions-solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3546-equal-sum-grid-partition-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3903-smallest-stable-index-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/3903-smallest-stable-index-i) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/adityameharda/dsa-questions-solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adityameharda/dsa-questions-solved/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityameharda/dsa-questions-solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1922-count-good-numbers](https://github.com/adityameharda/dsa-questions-solved/tree/master/1922-count-good-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/adityameharda/dsa-questions-solved/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/adityameharda/dsa-questions-solved/tree/master/2769-find-the-maximum-achievable-number) |
@@ -390,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/adityameharda/dsa-questions-solved/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityameharda/dsa-questions-solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
