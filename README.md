@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/adityameharda/dsa-questions-solved/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adityameharda/dsa-questions-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/adityameharda/dsa-questions-solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/adityameharda/dsa-questions-solved/tree/master/0078-subsets) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/adityameharda/dsa-questions-solved/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/adityameharda/dsa-questions-solved/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/adityameharda/dsa-questions-solved/tree/master/0115-distinct-subsequences) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityameharda/dsa-questions-solved/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/adityameharda/dsa-questions-solved/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0680-valid-palindrome-ii) |
