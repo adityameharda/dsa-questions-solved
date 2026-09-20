@@ -9,7 +9,6 @@ public:
             rev = 'z' - s[i] +1;
             sum += rev * (i+1);
         }
- 
         return sum ;
 
     }
