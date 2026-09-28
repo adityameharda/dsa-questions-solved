@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/adityameharda/dsa-questions-solved/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/adityameharda/dsa-questions-solved/tree/master/0547-number-of-provinces) |
 | [1306-jump-game-iii](https://github.com/adityameharda/dsa-questions-solved/tree/master/1306-jump-game-iii) |
+| [1971-find-if-path-exists-in-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityameharda/dsa-questions-solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -136,17 +137,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/adityameharda/dsa-questions-solved/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/adityameharda/dsa-questions-solved/tree/master/0547-number-of-provinces) |
 | [1306-jump-game-iii](https://github.com/adityameharda/dsa-questions-solved/tree/master/1306-jump-game-iii) |
+| [1971-find-if-path-exists-in-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityameharda/dsa-questions-solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/adityameharda/dsa-questions-solved/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/adityameharda/dsa-questions-solved/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/adityameharda/dsa-questions-solved/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Two Pointers
 |  |
 | ------- |
