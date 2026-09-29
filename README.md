@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/adityameharda/dsa-questions-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityameharda/dsa-questions-solved/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adityameharda/dsa-questions-solved/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityameharda/dsa-questions-solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/adityameharda/dsa-questions-solved/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/adityameharda/dsa-questions-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/adityameharda/dsa-questions-solved/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityameharda/dsa-questions-solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityameharda/dsa-questions-solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityameharda/dsa-questions-solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityameharda/dsa-questions-solved/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/adityameharda/dsa-questions-solved/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1861-rotating-the-box](https://github.com/adityameharda/dsa-questions-solved/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/adityameharda/dsa-questions-solved/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityameharda/dsa-questions-solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/adityameharda/dsa-questions-solved/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/adityameharda/dsa-questions-solved/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/3546-equal-sum-grid-partition-i) |
@@ -431,4 +434,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityameharda/dsa-questions-solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
