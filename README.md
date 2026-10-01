@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/adityameharda/dsa-questions-solved/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/adityameharda/dsa-questions-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
+| [0695-max-area-of-island](https://github.com/adityameharda/dsa-questions-solved/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityameharda/dsa-questions-solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/adityameharda/dsa-questions-solved/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/adityameharda/dsa-questions-solved/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/adityameharda/dsa-questions-solved/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/adityameharda/dsa-questions-solved/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/adityameharda/dsa-questions-solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adityameharda/dsa-questions-solved/tree/master/0733-flood-fill) |
 | [1306-jump-game-iii](https://github.com/adityameharda/dsa-questions-solved/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/1971-find-if-path-exists-in-graph) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/adityameharda/dsa-questions-solved/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/adityameharda/dsa-questions-solved/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/adityameharda/dsa-questions-solved/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/adityameharda/dsa-questions-solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adityameharda/dsa-questions-solved/tree/master/0733-flood-fill) |
 | [1306-jump-game-iii](https://github.com/adityameharda/dsa-questions-solved/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/1971-find-if-path-exists-in-graph) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/adityameharda/dsa-questions-solved/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/adityameharda/dsa-questions-solved/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/adityameharda/dsa-questions-solved/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/adityameharda/dsa-questions-solved/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/adityameharda/dsa-questions-solved/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/adityameharda/dsa-questions-solved/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/adityameharda/dsa-questions-solved/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/adityameharda/dsa-questions-solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/adityameharda/dsa-questions-solved/tree/master/0733-flood-fill) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/adityameharda/dsa-questions-solved/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/adityameharda/dsa-questions-solved/tree/master/0835-image-overlap) |
