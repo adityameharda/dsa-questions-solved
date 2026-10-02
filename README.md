@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/adityameharda/dsa-questions-solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adityameharda/dsa-questions-solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/adityameharda/dsa-questions-solved/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1980-find-unique-binary-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1980-find-unique-binary-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/adityameharda/dsa-questions-solved/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/adityameharda/dsa-questions-solved/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityameharda/dsa-questions-solved/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/adityameharda/dsa-questions-solved/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityameharda/dsa-questions-solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/adityameharda/dsa-questions-solved/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1922-count-good-numbers](https://github.com/adityameharda/dsa-questions-solved/tree/master/1922-count-good-numbers) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/adityameharda/dsa-questions-solved/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2769-find-the-maximum-achievable-number](https://github.com/adityameharda/dsa-questions-solved/tree/master/2769-find-the-maximum-achievable-number) |
