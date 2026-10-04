@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/adityameharda/dsa-questions-solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/adityameharda/dsa-questions-solved/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/0796-rotate-string) |
 | [0942-di-string-match](https://github.com/adityameharda/dsa-questions-solved/tree/master/0942-di-string-match) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/adityameharda/dsa-questions-solved/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/adityameharda/dsa-questions-solved/tree/master/0396-rotate-function) |
 | [0516-longest-palindromic-subsequence](https://github.com/adityameharda/dsa-questions-solved/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityameharda/dsa-questions-solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityameharda/dsa-questions-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [1340-jump-game-v](https://github.com/adityameharda/dsa-questions-solved/tree/master/1340-jump-game-v) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/adityameharda/dsa-questions-solved/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/adityameharda/dsa-questions-solved/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/adityameharda/dsa-questions-solved/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityameharda/dsa-questions-solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/adityameharda/dsa-questions-solved/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityameharda/dsa-questions-solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityameharda/dsa-questions-solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
