@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityameharda/dsa-questions-solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adityameharda/dsa-questions-solved/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adityameharda/dsa-questions-solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/adityameharda/dsa-questions-solved/tree/master/1759-count-number-of-homogenous-substrings) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/adityameharda/dsa-questions-solved/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/adityameharda/dsa-questions-solved/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/adityameharda/dsa-questions-solved/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adityameharda/dsa-questions-solved/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/adityameharda/dsa-questions-solved/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/adityameharda/dsa-questions-solved/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityameharda/dsa-questions-solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityameharda/dsa-questions-solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityameharda/dsa-questions-solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/adityameharda/dsa-questions-solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/adityameharda/dsa-questions-solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
